@@ -14,7 +14,7 @@ const SideBar = (props) => {
                 {data?.date}
             </p>
             <p> 
-                {data?.explenation}
+                {data?.explanation}
             </p>
          </div>
          <button onClick={handleToggleModal}>
